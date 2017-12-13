@@ -1,5 +1,8 @@
 # GIS Files
 
+## QGIS example with How-To writeup
+* watershed_example/
+
 ## GIS files from QGIS:
 
 * watershed1.qgs  - generated watershed shapefile based on elevation contours (rough, not touched up with groundtruthing)
